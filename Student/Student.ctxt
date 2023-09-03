@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Student
+comment0.text=\n\ This\ assignment\ is\ about\ creating\ a\ student\ class\ to\ make\ a\ student\ and\ allow\ it\ to\ enter\ and\ update\ assignment\ scores\n\ This\ assignment\ also\ has\ a\ driver\ to\ run\ the\ student\ class.\n\ @Iakjot\ \n\ @May12th\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=name\ maxAssign
+comment1.target=Student(java.lang.String,\ int)
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment3.params=theName
+comment3.target=void\ setName(java.lang.String)
+comment4.params=newScore
+comment4.target=boolean\ reportScore(double)
+comment5.params=
+comment5.target=void\ viewScores()
+comment6.params=update\ scoreNew
+comment6.target=void\ updateAssign(int,\ double)
+numComments=7
